@@ -10,8 +10,6 @@
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=William60081011.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=ThisIsALegitUsername&theme=react-dark&hide_border=true&area=true)
-
 ## Streak!
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ThisIsALegitUsername&theme=tokyonight" alt="mystreak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=William60081011&theme=tokyonight" alt="mystreak"/>
