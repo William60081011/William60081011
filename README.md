@@ -1,4 +1,6 @@
 ### Hi there i'm william 🏔:
+Contact me on Discord:
+![](https://dcbadge.vercel.app/api/shield/453987393473609731)
 
 
 ### My stats on github 📈:
