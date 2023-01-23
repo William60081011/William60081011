@@ -17,5 +17,6 @@
 
 
 ### My Discord Server (Please Join)
-![Discord Banner 4](https://discordapp.com/api/guilds/1004710840265625611/widget.png?style=banner4)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=William60081011&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
 
