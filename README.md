@@ -1,5 +1,6 @@
 ### Hi there i'm william 🏔:
-Contact me on Discord:
+
+
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=453987393473609731)
 
 
