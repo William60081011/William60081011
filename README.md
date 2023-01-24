@@ -18,3 +18,10 @@
      
      
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=William60081011.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
+<p align="center">
+        <img src="https://img.shields.io/opencollective/sponsors/shields" /></a>
+    <a href="https://github.com/badges/shields/pulse" alt="Activity">
+    <a href="https://discord.gg/gqvmjB8PX3">
+        <img src="https://img.shields.io/discord/1004710840265625611?logo=discord"
+            alt="Our Discord"></a>
+</p>
