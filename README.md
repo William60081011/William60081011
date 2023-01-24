@@ -4,9 +4,6 @@
         height="130">
      </p>
      
- 
-[![Discord Chat](https://img.shields.io/discord/1004710840265625611.svg)](https://discord.gg/gqvmjB8PX3)  
-
 
 ### Hi there i'm william 🏔:
 
