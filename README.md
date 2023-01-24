@@ -4,7 +4,7 @@
         height="130">
      </p>
 
-[![](https://dcbadge.vercel.app/api/server/1004710840265625611)](https://discord.gg/gqvmjB8PX3)
+[![our server](https://dcbadge.vercel.app/api/server/1004710840265625611)](https://discord.gg/gqvmjB8PX3)
 
 
 ### Hi there i'm william 🏔:
