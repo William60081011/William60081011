@@ -3,8 +3,9 @@
     <img src="https://raw.githubusercontent.com/William60081011/William60081011/main/readme-logo.png?sanitize=true"
         height="130">
      </p>
-
-[![our server](https://dcbadge.vercel.app/api/server/1004710840265625611)](https://discord.gg/gqvmjB8PX3)
+     
+ 
+[![Discord Chat](https://img.shields.io/discord/1004710840265625611.svg)](https://discord.gg/gqvmjB8PX3)  
 
 
 ### Hi there i'm william 🏔:
