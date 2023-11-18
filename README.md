@@ -1,4 +1,5 @@
-<h1 align="center">Hello 👋, Welcome To My Profile I'm William (AKA Fatal)</h1>
+<h1 align="center">Hello 👋, Welcome To My Profile! </h1>
+<h3 align="center">I'm William, but i'm also known as Fatal! </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fataleagler&label=Profile%20views&color=0e75b6&style=flat" alt="fataleagler" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fataleagler" alt="fataleagler" /></a> </p>
@@ -7,12 +8,13 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 📫 How to reach me **Message me on Discord: FatalEagler**
+- 📫 How to reach me: **Message me on Discord: williamvanbeast**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/fataleagler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fataleagler" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/GJFJ8bJkaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/GJFJ8bJkaz" height="30" width="40" /></a>
+<a href="https://discord.gg/GJFJ8bJkaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/GJFJ8bJkaz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
